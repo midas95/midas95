@@ -7,6 +7,7 @@
 <br clear="both">
 
 <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=midasminer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=midasminer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=midasminer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
