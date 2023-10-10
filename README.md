@@ -118,9 +118,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sweatydev/sweatydev/output/snake.svg" alt="Snake animation" />
-
-###
